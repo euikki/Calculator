@@ -1,0 +1,15 @@
+.container-table button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 1px;
+
+    cursor: pointer;
+    background-color: #161621;
+    border: none;
+    color: #fff;
+}
+
+.container-table button:hover{
+    background-color: black;
+}

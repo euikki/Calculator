@@ -1,0 +1,38 @@
+* {
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: #190822;
+    height: 100vh;
+}
+
+.calculator{
+    position: absolute;
+
+    background-color: #000008;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    border-radius: 15px;
+    padding: 15px;
+}
+
+#result{
+    background-color: #fff;
+    width: 202px;
+    height: 30px;
+    margin: 5px;
+    margin-left: 3px;
+
+    font-size: 23px;
+    color: #000008;
+
+    text-align: right;
+    padding: 5px;
+
+    overflow :  hidden;
+}
