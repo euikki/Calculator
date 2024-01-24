@@ -10,7 +10,7 @@
 ## Steps to execute this calculator:
 - Download the entire code 
 - Open up the index.html
-- Or you can access the project link on [github pages](https://ikki-jk.github.io/Calculadora/)
+- Or you can access the project link on [github pages](https://ikki-jk.github.io/Calculator/)
 
 ## Technologies used: 
 ```
